@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ihsan Ramahadian</h1>
-<h3 align="center">A passionate data sains & creative from Indonesia</h3>
+<h3 align="center">A passionate data sains & INDUSTRY creative from Indonesia</h3>
 
-- 📫 How to reach me **drakcase@gmail.com**
+- 📫 How to reach me **ihsanramahadian286@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
